@@ -1,6 +1,7 @@
 ---
-title: luca uhrig 
+title: Luca Uhrig
 ---
-aaaaaaaa
----
---- Philipps *mignon* [not a radio/https://www.google.com/search?q=brackets&rlz=1CACNAW_enLU939LU939&oq=bracket&aqs=chrome.0.0i512j69i57j0i512l8.1728j0j1&sourceid=chrome&ie=UTF-8]
+I am a student at the University of Luxembourg and specialize in economic history. This is my first time working on this website. 
+I take donations, they just need to be over 4 figures, thank you :) 
+
+ <a href = "https://www.youtube.com/watch?v=dQw4w9WgXcQ"> this is not important just testing </a>
